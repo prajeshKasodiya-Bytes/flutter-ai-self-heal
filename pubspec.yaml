@@ -1,1 +1,1 @@
-name: flutter_ai_self_heal\ndependencies:\n  flutter:\n    sdk: flutter\n  http: ^0.13.0\n
+name: flutter_ai_self_heal\ndependencies:\n  flutter:\n    sdk: flutter\n  http: ^1.2.0\n
