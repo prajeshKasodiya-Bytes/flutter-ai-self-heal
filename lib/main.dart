@@ -1,0 +1,1 @@
+import 'package:flutter/material.dart';\nvoid main() => runApp(MyApp());\nclass MyApp extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) \n    return MaterialApp(home: Scaffold(body: Center(child: FlatButton(onPressed: (){}\n}
